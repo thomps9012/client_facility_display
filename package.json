@@ -1,0 +1,18 @@
+{
+  "name": "client_bed_utilization",
+  "version": "1.0.0",
+  "description": "",
+  "main": "chartScripts.js",
+  "scripts": {
+    "watch": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20",
+    "path": "^0.12.7"
+  }
+}

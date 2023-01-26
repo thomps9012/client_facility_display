@@ -1,0 +1,2104 @@
+[
+    {
+        "LOCATION": "OPHELIA HOUSE",
+        "RESPONSIBLE_TO_UPDATE": "SHEILA",
+        "01/01/21": 8,
+        "01/08/21": 10,
+        "01/15/21": 9,
+        "01/22/21": 10,
+        "01/29/21": 10
+    },
+    {
+        "LOCATION": "CUYAHOGA IOP",
+        "RESPONSIBLE_TO_UPDATE": "JEFF",
+        "01/01/21": 39,
+        "01/08/21": 39,
+        "01/15/21": 38,
+        "01/22/21": 40,
+        "01/29/21": 40
+    },
+    {
+        "LOCATION": "CUYAHOGA AFTERCARE",
+        "RESPONSIBLE_TO_UPDATE": "JEFF",
+        "01/01/21": 12,
+        "01/08/21": 12,
+        "01/15/21": 12,
+        "01/22/21": 12,
+        "01/29/21": 12
+    },
+    {
+        "LOCATION": "ADOLESCENT PROGRAM",
+        "RESPONSIBLE_TO_UPDATE": "JEFF",
+        "01/01/21": 0,
+        "01/08/21": 0,
+        "01/15/21": 0,
+        "01/22/21": 0,
+        "01/29/21": 0
+    },
+    {
+        "LOCATION": "LORAIN IOP",
+        "RESPONSIBLE_TO_UPDATE": "SHERES",
+        "01/01/21": 12,
+        "01/08/21": 11,
+        "01/15/21": 11,
+        "01/22/21": 11,
+        "01/29/21": 11
+    },
+    {
+        "LOCATION": "PEER",
+        "RESPONSIBLE_TO_UPDATE": "TIM",
+        "01/01/21": 33,
+        "01/08/21": 33,
+        "01/15/21": 33,
+        "01/22/21": 33,
+        "01/29/21": 33
+    },
+    {
+        "LOCATION": "MENS HOUSE",
+        "RESPONSIBLE_TO_UPDATE": "TIM",
+        "01/01/21": 2,
+        "01/08/21": 7
+    },
+    {
+        "LOCATION": "NEXT STEP",
+        "RESPONSIBLE_TO_UPDATE": "SHEILA",
+        "01/01/21": 1,
+        "01/08/21": 2,
+        "01/15/21": 2,
+        "01/22/21": 2,
+        "01/29/21": 2
+    },
+    {
+        "LOCATION": "NEXT STEP CHILDREN",
+        "RESPONSIBLE_TO_UPDATE": "SHEILA",
+        "01/01/21": 0,
+        "01/08/21": 0,
+        "01/15/21": 0,
+        "01/22/21": 0,
+        "01/29/21": 0
+    },
+    {
+        "LOCATION": "NEXT STEP ODRC CLIENTS",
+        "RESPONSIBLE_TO_UPDATE": "SHEILA",
+        "01/01/21": 1,
+        "01/08/21": 1,
+        "01/15/21": 1,
+        "01/22/21": 1,
+        "01/29/21": 1
+    },
+    {
+        "LOCATION": "OPHELIA HOUSE",
+        "RESPONSIBLE_TO_UPDATE": "SONJA",
+        "02/05/21": 10,
+        "02/12/21": 11,
+        "02/19/21": 11,
+        "02/26/21": 9
+    },
+    {
+        "LOCATION": "CUYAHOGA IOP",
+        "RESPONSIBLE_TO_UPDATE": "JEFF",
+        "02/05/21": 39,
+        "02/12/21": 39
+    },
+    {
+        "LOCATION": "CUYAHOGA AFTERCARE",
+        "RESPONSIBLE_TO_UPDATE": "JEFF",
+        "02/05/21": 15,
+        "02/12/21": 15
+    },
+    {
+        "LOCATION": "MENS HOUSE",
+        "RESPONSIBLE_TO_UPDATE": "TIM",
+        "02/05/21": 5,
+        "02/12/21": 6,
+        "02/19/21": 7
+    },
+    {
+        "LOCATION": "NEXT STEP",
+        "RESPONSIBLE_TO_UPDATE": "SHEILA",
+        "02/05/21": 2,
+        "02/12/21": 2,
+        "02/19/21": 2,
+        "02/26/21": 2
+    },
+    {
+        "LOCATION": "NEXT STEP CHILDREN",
+        "RESPONSIBLE_TO_UPDATE": "SHEILA",
+        "02/19/21": 0,
+        "02/26/21": 0
+    },
+    {
+        "LOCATION": "NEXT STEP ODRC CLIENTS",
+        "RESPONSIBLE_TO_UPDATE": "SHEILA",
+        "02/05/21": 1,
+        "02/12/21": 1,
+        "02/19/21": 1,
+        "02/26/21": 1
+    },
+    {
+        "LOCATION": "OPHELIA HOUSE",
+        "RESPONSIBLE_TO_UPDATE": "SONJA",
+        "03/05/21": 9,
+        "03/12/21": 11,
+        "03/19/21": 11,
+        "03/26/21": 11
+    },
+    {
+        "LOCATION": "CUYAHOGA IOP",
+        "RESPONSIBLE_TO_UPDATE": "JEFF",
+        "03/05/21": 47,
+        "03/12/21": 47,
+        "03/19/21": 46,
+        "03/26/21": 44
+    },
+    {
+        "LOCATION": "CUYAHOGA AFTERCARE",
+        "RESPONSIBLE_TO_UPDATE": "JEFF",
+        "03/05/21": 14,
+        "03/12/21": 13,
+        "03/19/21": 13,
+        "03/26/21": 13
+    },
+    {
+        "LOCATION": "ADOLESCENT PROGRAM",
+        "RESPONSIBLE_TO_UPDATE": "JEFF",
+        "03/05/21": 0,
+        "03/12/21": 0,
+        "03/19/21": 0,
+        "03/26/21": 0
+    },
+    {
+        "LOCATION": "LORAIN IOP",
+        "RESPONSIBLE_TO_UPDATE": "SHERES",
+        "03/05/21": 17,
+        "03/12/21": 17,
+        "03/19/21": 14,
+        "03/26/21": 14
+    },
+    {
+        "LOCATION": "MENS HOUSE",
+        "RESPONSIBLE_TO_UPDATE": "TIM",
+        "03/05/21": 8,
+        "03/12/21": 8,
+        "03/19/21": 8,
+        "03/26/21": 8
+    },
+    {
+        "LOCATION": "NEXT STEP",
+        "RESPONSIBLE_TO_UPDATE": "SHEILA",
+        "03/05/21": 2,
+        "03/12/21": 2,
+        "03/19/21": 3,
+        "03/26/21": 5
+    },
+    {
+        "LOCATION": "NEXT STEP CHILDREN",
+        "RESPONSIBLE_TO_UPDATE": "SHEILA",
+        "03/05/21": 0,
+        "03/12/21": 0,
+        "03/19/21": 0,
+        "03/26/21": 0
+    },
+    {
+        "LOCATION": "NEXT STEP ODRC CLIENTS",
+        "RESPONSIBLE_TO_UPDATE": "SHEILA",
+        "03/05/21": 1,
+        "03/12/21": 1,
+        "03/19/21": 1,
+        "03/26/21": 1
+    },
+    {
+        "LOCATION": "OPHELIA HOUSE",
+        "RESPONSIBLE_TO_UPDATE": "LECHANNE",
+        "04/02/21": 12,
+        "04/23/21": 6
+    },
+    {
+        "LOCATION": "CUYAHOGA IOP",
+        "RESPONSIBLE_TO_UPDATE": "JEFF",
+        "04/02/21": 50,
+        "04/09/21": 52,
+        "04/16/21": 56,
+        "04/23/21": 56,
+        "04/30/21": 54
+    },
+    {
+        "LOCATION": "CUYAHOGA AFTERCARE",
+        "RESPONSIBLE_TO_UPDATE": "JEFF",
+        "04/02/21": 16,
+        "04/09/21": 15,
+        "04/16/21": 15,
+        "04/23/21": 15,
+        "04/30/21": 14
+    },
+    {
+        "LOCATION": "ADOLESCENT PROGRAM",
+        "RESPONSIBLE_TO_UPDATE": "JEFF",
+        "04/02/21": 0,
+        "04/09/21": 0,
+        "04/16/21": 0,
+        "04/23/21": 0
+    },
+    {
+        "LOCATION": "LORAIN IOP",
+        "RESPONSIBLE_TO_UPDATE": "SHERES",
+        "04/02/21": 16
+    },
+    {
+        "LOCATION": "NEXT STEP",
+        "RESPONSIBLE_TO_UPDATE": "SONJA",
+        "04/02/21": 5,
+        "04/23/21": 6
+    },
+    {
+        "LOCATION": "NEXT STEP CHILDREN",
+        "RESPONSIBLE_TO_UPDATE": "SONJA",
+        "04/23/21": 0
+    },
+    {
+        "LOCATION": "NEXT STEP ODRC CLIENTS",
+        "RESPONSIBLE_TO_UPDATE": "SONJA",
+        "04/02/21": 1,
+        "04/23/21": 1
+    },
+    {
+        "LOCATION": "OPHELIA HOUSE",
+        "RESPONSIBLE_TO_UPDATE": "LECHANNE",
+        "08/06/21": 7,
+        "08/13/21": 4,
+        "08/20/21": 3,
+        "08/27/21": 4
+    },
+    {
+        "LOCATION": "CUYAHOGA IOP",
+        "RESPONSIBLE_TO_UPDATE": "JEFF",
+        "08/06/21": 58,
+        "08/13/21": 44,
+        "08/20/21": 49,
+        "08/27/21": 49
+    },
+    {
+        "LOCATION": "CUYAHOGA AFTERCARE",
+        "RESPONSIBLE_TO_UPDATE": "JEFF",
+        "08/06/21": 11,
+        "08/13/21": 17,
+        "08/20/21": 16,
+        "08/27/21": 15
+    },
+    {
+        "LOCATION": "ADOLESCENT PROGRAM",
+        "RESPONSIBLE_TO_UPDATE": "JEFF",
+        "08/06/21": 4,
+        "08/13/21": 4,
+        "08/20/21": 4,
+        "08/27/21": 4
+    },
+    {
+        "LOCATION": "NEXT STEP",
+        "RESPONSIBLE_TO_UPDATE": "LECHANNE",
+        "08/06/21": 3,
+        "08/13/21": 3,
+        "08/20/21": 3,
+        "08/27/21": 3
+    },
+    {
+        "LOCATION": "NEXT STEP ODRC CLIENTS",
+        "RESPONSIBLE_TO_UPDATE": "SHEILA",
+        "08/06/21": 1,
+        "08/13/21": 1,
+        "08/20/21": 1,
+        "08/27/21": 1
+    },
+    {
+        "LOCATION": "OPHELIA HOUSE",
+        "RESPONSIBLE_TO_UPDATE": "LECHANNE",
+        "05/07/21": 8,
+        "05/14/21": 7,
+        "05/21/21": 8,
+        "05/28/21": 7
+    },
+    {
+        "LOCATION": "CUYAHOGA IOP",
+        "RESPONSIBLE_TO_UPDATE": "JEFF",
+        "05/07/21": 48,
+        "05/21/21": 52,
+        "05/28/21": 53
+    },
+    {
+        "LOCATION": "CUYAHOGA AFTERCARE",
+        "RESPONSIBLE_TO_UPDATE": "JEFF",
+        "05/07/21": 16,
+        "05/21/21": 16,
+        "05/28/21": 15
+    },
+    {
+        "LOCATION": "LORAIN IOP",
+        "RESPONSIBLE_TO_UPDATE": "SHERES",
+        "05/07/21": 13,
+        "05/14/21": 13,
+        "05/21/21": 15,
+        "05/28/21": 13
+    },
+    {
+        "LOCATION": "PEER",
+        "RESPONSIBLE_TO_UPDATE": "TIM",
+        "05/07/21": 57,
+        "05/14/21": 59
+    },
+    {
+        "LOCATION": "MENS HOUSE",
+        "RESPONSIBLE_TO_UPDATE": "TIM",
+        "05/28/21": 7
+    },
+    {
+        "LOCATION": "NEXT STEP",
+        "RESPONSIBLE_TO_UPDATE": "SONJA",
+        "05/07/21": 7,
+        "05/14/21": 6,
+        "05/21/21": 7,
+        "05/28/21": 5
+    },
+    {
+        "LOCATION": "NEXT STEP CHILDREN",
+        "RESPONSIBLE_TO_UPDATE": "SONJA",
+        "05/07/21": 0,
+        "05/14/21": 0,
+        "05/21/21": 0,
+        "05/28/21": 0
+    },
+    {
+        "LOCATION": "PEER SERVICES",
+        "RESPONSIBLE_TO_UPDATE": "TIMOTHY KELLY",
+        "05/28/21": 57
+    },
+    {
+        "LOCATION": "NEXT STEP ODRC CLIENTS",
+        "RESPONSIBLE_TO_UPDATE": "SONJA",
+        "05/07/21": 1,
+        "05/14/21": 1,
+        "05/21/21": 1,
+        "05/28/21": 1
+    },
+    {
+        "LOCATION": "PERKINS PLACE",
+        "RESPONSIBLE_TO_UPDATE": "MS CHUCKIE",
+        "07/01/22": 12,
+        "07/02/22": 0
+    },
+    {
+        "LOCATION": "CUYAHOGA IOP",
+        "RESPONSIBLE_TO_UPDATE": "JEFF",
+        "07/01/22": 43,
+        "07/02/22": 46,
+        "07/03/22": 52,
+        "07/04/22": 55
+    },
+    {
+        "LOCATION": "CUYAHOGA AFTERCARE",
+        "RESPONSIBLE_TO_UPDATE": "JEFF",
+        "07/01/22": 21,
+        "07/02/22": 17,
+        "07/03/22": 17,
+        "07/04/22": 16
+    },
+    {
+        "LOCATION": "ADOLESCENT PROGRAM",
+        "RESPONSIBLE_TO_UPDATE": "JEFF",
+        "07/01/22": 2,
+        "07/02/22": 2,
+        "07/03/22": 2,
+        "07/04/22": 2
+    },
+    {
+        "LOCATION": "PEER",
+        "RESPONSIBLE_TO_UPDATE": "TIM",
+        "07/01/22": 55,
+        "07/02/22": 57
+    },
+    {
+        "LOCATION": "MENS HOUSE",
+        "RESPONSIBLE_TO_UPDATE": "TIM",
+        "07/01/22": 7
+    },
+    {
+        "LOCATION": "NEXT STEP",
+        "RESPONSIBLE_TO_UPDATE": "LECHANNE",
+        "07/01/22": 6,
+        "07/02/22": 5,
+        "07/03/22": 5,
+        "07/04/22": 5
+    },
+    {
+        "LOCATION": "PEER SERVICES",
+        "RESPONSIBLE_TO_UPDATE": "TIMOTHY KELLY",
+        "07/01/22": 55,
+        "07/02/22": 57
+    },
+    {
+        "LOCATION": "NEXT STEP ODRC CLIENTS",
+        "RESPONSIBLE_TO_UPDATE": "LECHANNE",
+        "07/01/22": 1,
+        "07/02/22": 2,
+        "07/03/22": 2,
+        "07/04/22": 2
+    },
+    {
+        "LOCATION": "PERKINS PLACE",
+        "RESPONSIBLE_TO_UPDATE": "LECHANNE",
+        "07/02/21": 6,
+        "07/09/21": 5,
+        "07/16/21": 5,
+        "07/23/21": 7,
+        "07/30/21": 7
+    },
+    {
+        "LOCATION": "CUYAHOGA IOP",
+        "RESPONSIBLE_TO_UPDATE": "JEFF",
+        "07/02/21": 56,
+        "07/09/21": 58,
+        "07/16/21": 58,
+        "07/23/21": 58,
+        "07/30/21": 58
+    },
+    {
+        "LOCATION": "CUYAHOGA AFTERCARE",
+        "RESPONSIBLE_TO_UPDATE": "JEFF",
+        "07/02/21": 13,
+        "07/09/21": 11,
+        "07/16/21": 11,
+        "07/23/21": 11,
+        "07/30/21": 11
+    },
+    {
+        "LOCATION": "ADOLESCENT PROGRAM",
+        "RESPONSIBLE_TO_UPDATE": "JEFF",
+        "07/02/21": 2,
+        "07/09/21": 2,
+        "07/16/21": 2,
+        "07/23/21": 4,
+        "07/30/21": 4
+    },
+    {
+        "LOCATION": "NEXT STEP",
+        "RESPONSIBLE_TO_UPDATE": "LECHANNE",
+        "07/02/21": 5,
+        "07/09/21": 5,
+        "07/16/21": 5,
+        "07/23/21": 5,
+        "07/30/21": 4
+    },
+    {
+        "LOCATION": "NEXT STEP ODRC CLIENTS",
+        "RESPONSIBLE_TO_UPDATE": "LECHANNE",
+        "07/02/21": 1,
+        "07/09/21": 1,
+        "07/16/21": 1,
+        "07/23/21": 1,
+        "07/30/21": 1
+    },
+    {
+        "LOCATION": "PERKINS PLACE",
+        "RESPONSIBLE_TO_UPDATE": "LECHANNE LEDGER",
+        "09/03/21": 5,
+        "09/10/21": 5,
+        "09/17/21": 6,
+        "09/24/21": 7
+    },
+    {
+        "LOCATION": "CUYAHOGA IOP",
+        "RESPONSIBLE_TO_UPDATE": "JEFF",
+        "09/03/21": 52,
+        "09/10/21": 53,
+        "09/17/21": 57,
+        "09/24/21": 59
+    },
+    {
+        "LOCATION": "CUYAHOGA AFTERCARE",
+        "RESPONSIBLE_TO_UPDATE": "JEFF",
+        "09/03/21": 17,
+        "09/10/21": 17,
+        "09/17/21": 19,
+        "09/24/21": 19
+    },
+    {
+        "LOCATION": "ADOLESCENT PROGRAM",
+        "RESPONSIBLE_TO_UPDATE": "JEFF",
+        "09/03/21": 4,
+        "09/10/21": 4,
+        "09/17/21": 4,
+        "09/24/21": 4
+    },
+    {
+        "LOCATION": "LORAIN IOP",
+        "RESPONSIBLE_TO_UPDATE": "SHERES",
+        "09/03/21": 12,
+        "09/10/21": 12,
+        "09/17/21": 12,
+        "09/24/21": 11
+    },
+    {
+        "LOCATION": "PEER",
+        "RESPONSIBLE_TO_UPDATE": "TIM",
+        "09/03/21": 0,
+        "09/10/21": 0,
+        "09/17/21": 0,
+        "09/24/21": 0
+    },
+    {
+        "LOCATION": "MENS HOUSE",
+        "RESPONSIBLE_TO_UPDATE": "TIM",
+        "09/03/21": 8,
+        "09/10/21": 8,
+        "09/17/21": 8,
+        "09/24/21": 8
+    },
+    {
+        "LOCATION": "NEXT STEP",
+        "RESPONSIBLE_TO_UPDATE": "SHEILA",
+        "09/03/21": 3,
+        "09/10/21": 3,
+        "09/17/21": 5,
+        "09/24/21": 5
+    },
+    {
+        "LOCATION": "NEXT STEP CHILDREN",
+        "RESPONSIBLE_TO_UPDATE": "SHEILA",
+        "09/03/21": 0,
+        "09/10/21": 0,
+        "09/17/21": 0,
+        "09/24/21": 0
+    },
+    {
+        "LOCATION": "NEXT STEP ODRC CLIENTS",
+        "RESPONSIBLE_TO_UPDATE": "SHEILA",
+        "09/03/21": 1,
+        "09/10/21": 1,
+        "09/17/21": 1,
+        "09/24/21": 1
+    },
+    {
+        "LOCATION": "PERKINS PLACE",
+        "RESPONSIBLE_TO_UPDATE": "LECHANNE",
+        "10/01/21": 9,
+        "10/08/21": 10,
+        "10/15/21": 10,
+        "10/22/21": 12,
+        "10/29/21": 12
+    },
+    {
+        "LOCATION": "CUYAHOGA IOP",
+        "RESPONSIBLE_TO_UPDATE": "JEFF",
+        "10/01/21": 63,
+        "10/08/21": 68,
+        "10/15/21": 67,
+        "10/22/21": 65,
+        "10/29/21": 67
+    },
+    {
+        "LOCATION": "CUYAHOGA AFTERCARE",
+        "RESPONSIBLE_TO_UPDATE": "JEFF",
+        "10/01/21": 19,
+        "10/08/21": 20,
+        "10/15/21": 19,
+        "10/22/21": 23,
+        "10/29/21": 14
+    },
+    {
+        "LOCATION": "ADOLESCENT PROGRAM",
+        "RESPONSIBLE_TO_UPDATE": "JEFF",
+        "10/01/21": 4,
+        "10/08/21": 4,
+        "10/15/21": 4,
+        "10/22/21": 4,
+        "10/29/21": 4
+    },
+    {
+        "LOCATION": "LORAIN IOP",
+        "RESPONSIBLE_TO_UPDATE": "SHERES",
+        "10/01/21": 12,
+        "10/08/21": 15,
+        "10/15/21": 15,
+        "10/22/21": 17
+    },
+    {
+        "LOCATION": "PEER",
+        "RESPONSIBLE_TO_UPDATE": "TIM",
+        "10/01/21": 0,
+        "10/08/21": 0,
+        "10/15/21": 0,
+        "10/22/21": 3
+    },
+    {
+        "LOCATION": "MENS HOUSE",
+        "RESPONSIBLE_TO_UPDATE": "TIM",
+        "10/01/21": 8,
+        "10/08/21": 8,
+        "10/15/21": 8,
+        "10/22/21": 8,
+        "10/29/21": 6
+    },
+    {
+        "LOCATION": "NEXT STEP",
+        "RESPONSIBLE_TO_UPDATE": "SHEILA",
+        "10/01/21": 7,
+        "10/08/21": 9,
+        "10/15/21": 8,
+        "10/22/21": 7,
+        "10/29/21": 7
+    },
+    {
+        "LOCATION": "NEXT STEP CHILDREN",
+        "RESPONSIBLE_TO_UPDATE": "SHEILA",
+        "10/01/21": 0,
+        "10/08/21": 0,
+        "10/15/21": 0,
+        "10/22/21": 0,
+        "10/29/21": 0
+    },
+    {
+        "LOCATION": "NEXT STEP ODRC CLIENTS",
+        "RESPONSIBLE_TO_UPDATE": "SHEILA",
+        "10/01/21": 1,
+        "10/08/21": 1,
+        "10/15/21": 1,
+        "10/22/21": 1,
+        "10/29/21": 1
+    },
+    {
+        "LOCATION": "PERKINS PLACE",
+        "RESPONSIBLE_TO_UPDATE": "LECHANNE LEDGER",
+        "11/05/21": 14,
+        "11/12/21": 13,
+        "11/19/21": 11,
+        "11/26/21": 10
+    },
+    {
+        "LOCATION": "CUYAHOGA IOP",
+        "RESPONSIBLE_TO_UPDATE": "JEFF",
+        "11/05/21": 69,
+        "11/12/21": 66,
+        "11/19/21": 66,
+        "11/26/21": 56
+    },
+    {
+        "LOCATION": "CUYAHOGA AFTERCARE",
+        "RESPONSIBLE_TO_UPDATE": "JEFF",
+        "11/05/21": 10,
+        "11/12/21": 14,
+        "11/19/21": 14,
+        "11/26/21": 16
+    },
+    {
+        "LOCATION": "ADOLESCENT PROGRAM",
+        "RESPONSIBLE_TO_UPDATE": "JEFF",
+        "11/05/21": 4,
+        "11/12/21": 4,
+        "11/19/21": 4,
+        "11/26/21": 4
+    },
+    {
+        "LOCATION": "LORAIN IOP",
+        "RESPONSIBLE_TO_UPDATE": "SHERES",
+        "11/05/21": 16,
+        "11/12/21": 19,
+        "11/19/21": 19
+    },
+    {
+        "LOCATION": "NEXT STEP",
+        "RESPONSIBLE_TO_UPDATE": "SHEILA",
+        "11/05/21": 6,
+        "11/12/21": 5,
+        "11/19/21": 5,
+        "11/26/21": 5
+    },
+    {
+        "LOCATION": "NEXT STEP ODRC CLIENTS",
+        "RESPONSIBLE_TO_UPDATE": "SHEILA",
+        "11/05/21": 1,
+        "11/12/21": 1,
+        "11/19/21": 1,
+        "11/26/21": 1
+    },
+    {
+        "LOCATION": "PERKINS PLACE",
+        "RESPONSIBLE_TO_UPDATE": "LECHANNE",
+        "12/03/21": 10,
+        "12/10/21": 9,
+        "12/17/21": 7,
+        "12/24/21": 5,
+        "12/31/21": 5
+    },
+    {
+        "LOCATION": "CUYAHOGA IOP",
+        "RESPONSIBLE_TO_UPDATE": "JEFF",
+        "12/03/21": 56,
+        "12/10/21": 56,
+        "12/17/21": 56,
+        "12/24/21": 57,
+        "12/31/21": 57
+    },
+    {
+        "LOCATION": "CUYAHOGA AFTERCARE",
+        "RESPONSIBLE_TO_UPDATE": "JEFF",
+        "12/03/21": 16,
+        "12/10/21": 18,
+        "12/17/21": 18,
+        "12/24/21": 18,
+        "12/31/21": 18
+    },
+    {
+        "LOCATION": "ADOLESCENT PROGRAM",
+        "RESPONSIBLE_TO_UPDATE": "JEFF",
+        "12/03/21": 4,
+        "12/10/21": 4,
+        "12/17/21": 4,
+        "12/24/21": 4,
+        "12/31/21": 4
+    },
+    {
+        "LOCATION": "LORAIN IOP",
+        "RESPONSIBLE_TO_UPDATE": "SHERES",
+        "12/03/21": 19,
+        "12/10/21": 20,
+        "12/17/21": 21,
+        "12/24/21": 21,
+        "12/31/21": 21
+    },
+    {
+        "LOCATION": "MENS HOUSE",
+        "RESPONSIBLE_TO_UPDATE": "JEFF",
+        "12/31/21": 1
+    },
+    {
+        "LOCATION": "NEXT STEP",
+        "RESPONSIBLE_TO_UPDATE": "SHEILA",
+        "12/03/21": 5,
+        "12/10/21": 6,
+        "12/17/21": 6,
+        "12/24/21": 7,
+        "12/31/21": 7
+    },
+    {
+        "LOCATION": "NEXT STEP CHILDREN",
+        "RESPONSIBLE_TO_UPDATE": "SHEILA",
+        "12/03/21": 0,
+        "12/10/21": 0,
+        "12/17/21": 0
+    },
+    {
+        "LOCATION": "NEXT STEP ODRC CLIENTS",
+        "RESPONSIBLE_TO_UPDATE": "SHEILA",
+        "12/03/21": 1,
+        "12/10/21": 1,
+        "12/17/21": 1,
+        "12/24/21": 1,
+        "12/31/21": 1
+    },
+    {
+        "LOCATION": "NEXT STEP",
+        "RESPONSIBLE_TO_UPDATE": "SHEILA",
+        "12/03/21": 8,
+        "12/10/21": 8,
+        "12/17/21": 8,
+        "12/24/21": 7,
+        "12/31/21": 7
+    },
+    {
+        "LOCATION": "MENS HOUSE",
+        "RESPONSIBLE_TO_UPDATE": "JEFF",
+        "12/03/21": 1,
+        "12/10/21": 1,
+        "12/17/21": 1,
+        "12/24/21": 1
+    },
+    {
+        "LOCATION": "PERKINS PLACE",
+        "RESPONSIBLE_TO_UPDATE": "LECHANNE",
+        "12/03/21": 4,
+        "12/10/21": 5,
+        "12/17/21": 7,
+        "12/24/21": 9,
+        "12/31/21": 9
+    },
+    {
+        "LOCATION": "PERKINS PLACE",
+        "RESPONSIBLE_TO_UPDATE": "LECHANNE",
+        "01/07/22": 4,
+        "01/14/22": 6,
+        "01/21/22": 8,
+        "01/28/22": 6
+    },
+    {
+        "LOCATION": "CUYAHOGA IOP",
+        "RESPONSIBLE_TO_UPDATE": "JEFF",
+        "01/07/22": 59,
+        "01/14/22": 62,
+        "01/21/22": 73,
+        "01/28/22": 63
+    },
+    {
+        "LOCATION": "CUYAHOGA AFTERCARE",
+        "RESPONSIBLE_TO_UPDATE": "JEFF",
+        "01/07/22": 18,
+        "01/14/22": 15,
+        "01/21/22": 12,
+        "01/28/22": 16
+    },
+    {
+        "LOCATION": "ADOLESCENT PROGRAM",
+        "RESPONSIBLE_TO_UPDATE": "JEFF",
+        "01/07/22": 4,
+        "01/14/22": 4,
+        "01/21/22": 3,
+        "01/28/22": 3
+    },
+    {
+        "LOCATION": "LORAIN IOP",
+        "RESPONSIBLE_TO_UPDATE": "SHERES",
+        "01/07/22": 24,
+        "01/14/22": 24,
+        "01/21/22": 18,
+        "01/28/22": 20
+    },
+    {
+        "LOCATION": "MENS HOUSE",
+        "RESPONSIBLE_TO_UPDATE": "JEFF",
+        "01/07/22": 1,
+        "01/14/22": 1,
+        "01/21/22": 1,
+        "01/28/22": 1
+    },
+    {
+        "LOCATION": "NEXT STEP",
+        "RESPONSIBLE_TO_UPDATE": "SHEILA",
+        "01/07/22": 7,
+        "01/14/22": 7,
+        "01/21/22": 7,
+        "01/28/22": 7
+    },
+    {
+        "LOCATION": "NEXT STEP CHILDREN",
+        "RESPONSIBLE_TO_UPDATE": "SHEILA",
+        "01/07/22": 0,
+        "01/14/22": 0,
+        "01/21/22": 0,
+        "01/28/22": 0
+    },
+    {
+        "LOCATION": "NEXT STEP ODRC CLIENTS",
+        "RESPONSIBLE_TO_UPDATE": "SHEILA",
+        "01/07/22": 1,
+        "01/14/22": 1,
+        "01/21/22": 1,
+        "01/28/22": 1
+    },
+    {
+        "LOCATION": "NEXT STEP",
+        "RESPONSIBLE_TO_UPDATE": "SHEILA",
+        "01/07/22": 8,
+        "01/14/22": 8,
+        "01/21/22": 8,
+        "01/28/22": 8
+    },
+    {
+        "LOCATION": "MENS HOUSE",
+        "RESPONSIBLE_TO_UPDATE": "JEFF",
+        "01/07/22": 0,
+        "01/14/22": 0,
+        "01/21/22": 0,
+        "01/28/22": 0
+    },
+    {
+        "LOCATION": "PERKINS PLACE",
+        "RESPONSIBLE_TO_UPDATE": "LECHANNE",
+        "01/07/22": 10,
+        "01/14/22": 8,
+        "01/21/22": 6,
+        "01/28/22": 8
+    },
+    {
+        "LOCATION": "PERKINS PLACE",
+        "RESPONSIBLE_TO_UPDATE": "MS. CHUCKY",
+        "02/04/22": 7,
+        "02/11/22": 7,
+        "02/18/22": 5,
+        "02/25/22": 7
+    },
+    {
+        "LOCATION": "CUYAHOGA IOP",
+        "RESPONSIBLE_TO_UPDATE": "JEFF",
+        "02/04/22": 53,
+        "02/11/22": 51,
+        "02/18/22": 51,
+        "02/25/22": 35
+    },
+    {
+        "LOCATION": "CUYAHOGA AFTERCARE",
+        "RESPONSIBLE_TO_UPDATE": "JEFF",
+        "02/04/22": 16,
+        "02/11/22": 12,
+        "02/18/22": 15,
+        "02/25/22": 27
+    },
+    {
+        "LOCATION": "ADOLESCENT PROGRAM",
+        "RESPONSIBLE_TO_UPDATE": "JEFF",
+        "02/04/22": 3,
+        "02/11/22": 3,
+        "02/18/22": 3,
+        "02/25/22": 3
+    },
+    {
+        "LOCATION": "LORAIN IOP",
+        "RESPONSIBLE_TO_UPDATE": "RON GUISTI",
+        "02/04/22": 21,
+        "02/11/22": 23,
+        "02/18/22": 23,
+        "02/25/22": 20
+    },
+    {
+        "LOCATION": "MENS HOUSE",
+        "RESPONSIBLE_TO_UPDATE": "JEFF",
+        "02/04/22": 1,
+        "02/11/22": 1,
+        "02/18/22": 1,
+        "02/25/22": 1
+    },
+    {
+        "LOCATION": "NEXT STEP",
+        "RESPONSIBLE_TO_UPDATE": "SHEILA",
+        "02/04/22": 8,
+        "02/11/22": 8,
+        "02/18/22": 10,
+        "02/25/22": 11
+    },
+    {
+        "LOCATION": "NEXT STEP CHILDREN",
+        "RESPONSIBLE_TO_UPDATE": "SHEILA",
+        "02/04/22": 0,
+        "02/11/22": 0,
+        "02/18/22": 0,
+        "02/25/22": 0
+    },
+    {
+        "LOCATION": "NEXT STEP ODRC CLIENTS",
+        "RESPONSIBLE_TO_UPDATE": "SHEILA",
+        "02/04/22": 1,
+        "02/11/22": 1,
+        "02/18/22": 1,
+        "02/25/22": 1
+    },
+    {
+        "LOCATION": "NEXT STEP",
+        "RESPONSIBLE_TO_UPDATE": "SHEILA",
+        "02/04/22": 6,
+        "02/11/22": 6,
+        "02/18/22": 4,
+        "02/25/22": 2
+    },
+    {
+        "LOCATION": "MENS HOUSE",
+        "RESPONSIBLE_TO_UPDATE": "JEFF",
+        "02/04/22": 0,
+        "02/11/22": 0,
+        "02/18/22": 0,
+        "02/25/22": 0
+    },
+    {
+        "LOCATION": "PERKINS PLACE",
+        "RESPONSIBLE_TO_UPDATE": "MS. CHUCKY",
+        "02/04/22": 14,
+        "02/11/22": 14,
+        "02/18/22": 15,
+        "02/25/22": 8
+    },
+    {
+        "LOCATION": "PERKINS PLACE",
+        "RESPONSIBLE_TO_UPDATE": "MS. CHUCKY",
+        "03/04/22": 8,
+        "03/11/22": 9,
+        "03/21/22": 8,
+        "03/25/22": 8
+    },
+    {
+        "LOCATION": "CUYAHOGA IOP",
+        "RESPONSIBLE_TO_UPDATE": "JEFF",
+        "03/04/22": 37,
+        "03/11/22": 36,
+        "03/21/22": 36,
+        "03/25/22": 40
+    },
+    {
+        "LOCATION": "CUYAHOGA AFTERCARE",
+        "RESPONSIBLE_TO_UPDATE": "JEFF",
+        "03/04/22": 27,
+        "03/11/22": 18,
+        "03/21/22": 18,
+        "03/25/22": 29
+    },
+    {
+        "LOCATION": "ADOLESCENT PROGRAM",
+        "RESPONSIBLE_TO_UPDATE": "JEFF",
+        "03/04/22": 3,
+        "03/11/22": 3,
+        "03/21/22": 3,
+        "03/25/22": 2
+    },
+    {
+        "LOCATION": "LORAIN IOP",
+        "RESPONSIBLE_TO_UPDATE": "RON GUISTI",
+        "03/04/22": 22,
+        "03/11/22": 19,
+        "03/21/22": 18,
+        "03/25/22": 19
+    },
+    {
+        "LOCATION": "MENS HOUSE",
+        "RESPONSIBLE_TO_UPDATE": "JEFF",
+        "03/04/22": 1,
+        "03/11/22": 0,
+        "03/21/22": 0,
+        "03/25/22": 0
+    },
+    {
+        "LOCATION": "NEXT STEP",
+        "RESPONSIBLE_TO_UPDATE": "DEBORAH",
+        "03/04/22": 11,
+        "03/11/22": 11,
+        "03/21/22": 12,
+        "03/25/22": 14
+    },
+    {
+        "LOCATION": "NEXT STEP CHILDREN",
+        "RESPONSIBLE_TO_UPDATE": "DEBORAH",
+        "03/04/22": 0,
+        "03/11/22": 0,
+        "03/21/22": 0,
+        "03/25/22": 0
+    },
+    {
+        "LOCATION": "NEXT STEP ODRC CLIENTS",
+        "RESPONSIBLE_TO_UPDATE": "DEBORAH",
+        "03/04/22": 1,
+        "03/11/22": 1,
+        "03/21/22": 1,
+        "03/25/22": 1
+    },
+    {
+        "LOCATION": "NEXT STEP",
+        "RESPONSIBLE_TO_UPDATE": "DEBORAH",
+        "03/04/22": 2,
+        "03/11/22": 2,
+        "03/21/22": 1,
+        "03/25/22": 0
+    },
+    {
+        "LOCATION": "MENS HOUSE",
+        "RESPONSIBLE_TO_UPDATE": "JEFF",
+        "03/04/22": 0,
+        "03/11/22": 1,
+        "03/21/22": 1,
+        "03/25/22": 1
+    },
+    {
+        "LOCATION": "PERKINS PLACE",
+        "RESPONSIBLE_TO_UPDATE": "MS. CHUCKY",
+        "03/04/22": 7,
+        "03/11/22": 0,
+        "03/21/22": 7,
+        "03/25/22": 7
+    },
+    {
+        "LOCATION": "PERKINS PLACE",
+        "RESPONSIBLE_TO_UPDATE": "MS. CHUCKY",
+        "04/01/22": 7,
+        "04/08/22": 7,
+        "04/12/22": 10,
+        "04/15/22": 10,
+        "04/22/22": 10,
+        "04/26/22": 10
+    },
+    {
+        "LOCATION": "CUYAHOGA IOP",
+        "RESPONSIBLE_TO_UPDATE": "JEFF",
+        "04/01/22": 36,
+        "04/08/22": 36,
+        "04/12/22": 36,
+        "04/15/22": 36,
+        "04/22/22": 38
+    },
+    {
+        "LOCATION": "CUYAHOGA AFTERCARE",
+        "RESPONSIBLE_TO_UPDATE": "JEFF",
+        "04/01/22": 27,
+        "04/08/22": 21,
+        "04/12/22": 21,
+        "04/15/22": 21,
+        "04/22/22": 21
+    },
+    {
+        "LOCATION": "ADOLESCENT PROGRAM",
+        "RESPONSIBLE_TO_UPDATE": "JEFF",
+        "04/01/22": 2,
+        "04/08/22": 2,
+        "04/12/22": 2,
+        "04/15/22": 2,
+        "04/22/22": 2
+    },
+    {
+        "LOCATION": "LORAIN IOP",
+        "RESPONSIBLE_TO_UPDATE": "RON GUISTI",
+        "04/01/22": 16,
+        "04/08/22": 16,
+        "04/12/22": 16,
+        "04/15/22": 16,
+        "04/22/22": 16,
+        "04/26/22": 16
+    },
+    {
+        "LOCATION": "MENS HOUSE",
+        "RESPONSIBLE_TO_UPDATE": "JEFF",
+        "04/01/22": 0,
+        "04/08/22": 0,
+        "04/12/22": 0,
+        "04/15/22": 0,
+        "04/22/22": 0
+    },
+    {
+        "LOCATION": "NEXT STEP",
+        "RESPONSIBLE_TO_UPDATE": "DEBORAH",
+        "04/01/22": 12,
+        "04/08/22": 11,
+        "04/12/22": 11,
+        "04/15/22": 11,
+        "04/22/22": 11,
+        "04/26/22": 11
+    },
+    {
+        "LOCATION": "NEXT STEP CHILDREN",
+        "RESPONSIBLE_TO_UPDATE": "DEBORAH",
+        "04/01/22": 1,
+        "04/08/22": 1,
+        "04/12/22": 1,
+        "04/15/22": 1,
+        "04/22/22": 1,
+        "04/26/22": 2
+    },
+    {
+        "LOCATION": "NEXT STEP ODRC CLIENTS",
+        "RESPONSIBLE_TO_UPDATE": "DEBORAH",
+        "04/01/22": 1,
+        "04/08/22": 1,
+        "04/12/22": 1,
+        "04/15/22": 1,
+        "04/22/22": 1,
+        "04/26/22": 1
+    },
+    {
+        "LOCATION": "NEXT STEP",
+        "RESPONSIBLE_TO_UPDATE": "DEBORAH",
+        "04/01/22": 1,
+        "04/08/22": 1,
+        "04/12/22": 1,
+        "04/15/22": 1,
+        "04/22/22": 1,
+        "04/26/22": 0
+    },
+    {
+        "LOCATION": "MENS HOUSE",
+        "RESPONSIBLE_TO_UPDATE": "JEFF",
+        "04/01/22": 7,
+        "04/08/22": 7,
+        "04/12/22": 7,
+        "04/15/22": 7,
+        "04/22/22": 7
+    },
+    {
+        "LOCATION": "PERKINS PLACE",
+        "RESPONSIBLE_TO_UPDATE": "MS. CHUCKY",
+        "04/01/22": 8,
+        "04/08/22": 8,
+        "04/12/22": 5,
+        "04/15/22": 5,
+        "04/22/22": 5
+    },
+    {
+        "LOCATION": "PERKINS PLACE",
+        "RESPONSIBLE_TO_UPDATE": "MS. CHUCKY",
+        "05/02/22": 10,
+        "05/06/22": 9,
+        "05/13/22": 8,
+        "05/20/22": 8,
+        "05/27/22": 8
+    },
+    {
+        "LOCATION": "CUYAHOGA IOP",
+        "RESPONSIBLE_TO_UPDATE": "JEFF",
+        "05/02/22": 46,
+        "05/06/22": 45,
+        "05/13/22": 43,
+        "05/20/22": 41,
+        "05/27/22": 55
+    },
+    {
+        "LOCATION": "CUYAHOGA AFTERCARE",
+        "RESPONSIBLE_TO_UPDATE": "JEFF",
+        "05/02/22": 26,
+        "05/06/22": 27,
+        "05/13/22": 29,
+        "05/20/22": 23,
+        "05/27/22": 24
+    },
+    {
+        "LOCATION": "ADOLESCENT PROGRAM",
+        "RESPONSIBLE_TO_UPDATE": "JEFF",
+        "05/02/22": 2,
+        "05/06/22": 2,
+        "05/13/22": 3,
+        "05/20/22": 3,
+        "05/27/22": 3
+    },
+    {
+        "LOCATION": "LORAIN IOP",
+        "RESPONSIBLE_TO_UPDATE": "RON GUISTI",
+        "05/02/22": 16,
+        "05/06/22": 14,
+        "05/13/22": 14,
+        "05/20/22": 17,
+        "05/27/22": 17
+    },
+    {
+        "LOCATION": "MENS HOUSE",
+        "RESPONSIBLE_TO_UPDATE": "JEFF",
+        "05/02/22": 0,
+        "05/06/22": 0,
+        "05/13/22": 0,
+        "05/20/22": 0
+    },
+    {
+        "LOCATION": "NEXT STEP",
+        "RESPONSIBLE_TO_UPDATE": "DEBORAH",
+        "05/02/22": 11,
+        "05/06/22": 11,
+        "05/13/22": 11,
+        "05/20/22": 11,
+        "05/27/22": 9
+    },
+    {
+        "LOCATION": "NEXT STEP CHILDREN",
+        "RESPONSIBLE_TO_UPDATE": "DEBORAH",
+        "05/02/22": 2,
+        "05/06/22": 2,
+        "05/13/22": 2,
+        "05/20/22": 1,
+        "05/27/22": 2
+    },
+    {
+        "LOCATION": "NEXT STEP ODRC CLIENTS",
+        "RESPONSIBLE_TO_UPDATE": "DEBORAH",
+        "05/02/22": 1,
+        "05/06/22": 1,
+        "05/13/22": 2,
+        "05/20/22": 2,
+        "05/27/22": 1
+    },
+    {
+        "LOCATION": "NEXT STEP",
+        "RESPONSIBLE_TO_UPDATE": "DEBORAH",
+        "05/02/22": 1,
+        "05/06/22": 1,
+        "05/13/22": 0,
+        "05/20/22": 2,
+        "05/27/22": 3
+    },
+    {
+        "LOCATION": "MENS HOUSE",
+        "RESPONSIBLE_TO_UPDATE": "JEFF",
+        "05/02/22": 0,
+        "05/06/22": 0,
+        "05/13/22": 0,
+        "05/20/22": 1,
+        "05/27/22": 0
+    },
+    {
+        "LOCATION": "PERKINS PLACE",
+        "RESPONSIBLE_TO_UPDATE": "MS. CHUCKY",
+        "05/06/22": 6,
+        "05/13/22": 7,
+        "05/20/22": 7,
+        "05/27/22": 7
+    },
+    {
+        "LOCATION": "PERKINS PLACE",
+        "RESPONSIBLE_TO_UPDATE": "MS. CHUCKY",
+        "06/03/22": 7,
+        "06/10/22": 7,
+        "06/18/22": 7,
+        "06/24/22": 9
+    },
+    {
+        "LOCATION": "CUYAHOGA IOP",
+        "RESPONSIBLE_TO_UPDATE": "JEFF",
+        "06/03/22": 51,
+        "06/10/22": 46,
+        "06/18/22": 41,
+        "06/24/22": 42
+    },
+    {
+        "LOCATION": "CUYAHOGA AFTERCARE",
+        "RESPONSIBLE_TO_UPDATE": "JEFF",
+        "06/03/22": 24,
+        "06/10/22": 31,
+        "06/18/22": 33,
+        "06/24/22": 31
+    },
+    {
+        "LOCATION": "ADOLESCENT PROGRAM",
+        "RESPONSIBLE_TO_UPDATE": "JEFF",
+        "06/03/22": 3,
+        "06/10/22": 3,
+        "06/18/22": 3,
+        "06/24/22": 2
+    },
+    {
+        "LOCATION": "LORAIN IOP",
+        "RESPONSIBLE_TO_UPDATE": "RON GUISTI",
+        "06/03/22": 15,
+        "06/10/22": 16,
+        "06/18/22": 18,
+        "06/24/22": 18
+    },
+    {
+        "LOCATION": "MENS HOUSE",
+        "RESPONSIBLE_TO_UPDATE": "JEFF",
+        "06/03/22": 0,
+        "06/10/22": 0,
+        "06/18/22": 0,
+        "06/24/22": 0
+    },
+    {
+        "LOCATION": "NEXT STEP",
+        "RESPONSIBLE_TO_UPDATE": "DEBORAH",
+        "06/03/22": 9,
+        "06/10/22": 9,
+        "06/18/22": 10,
+        "06/24/22": 10
+    },
+    {
+        "LOCATION": "NEXT STEP CHILDREN",
+        "RESPONSIBLE_TO_UPDATE": "DEBORAH",
+        "06/03/22": 2,
+        "06/10/22": 2,
+        "06/18/22": 4,
+        "06/24/22": 4
+    },
+    {
+        "LOCATION": "NEXT STEP ODRC CLIENTS",
+        "RESPONSIBLE_TO_UPDATE": "DEBORAH",
+        "06/03/22": 1,
+        "06/10/22": 1,
+        "06/18/22": 1,
+        "06/24/22": 1
+    },
+    {
+        "LOCATION": "NEXT STEP",
+        "RESPONSIBLE_TO_UPDATE": "DEBORAH",
+        "06/03/22": 3,
+        "06/10/22": 3,
+        "06/18/22": 1
+    },
+    {
+        "LOCATION": "MENS HOUSE",
+        "RESPONSIBLE_TO_UPDATE": "JEFF",
+        "06/03/22": 2,
+        "06/10/22": 2,
+        "06/18/22": 2,
+        "06/24/22": 2
+    },
+    {
+        "LOCATION": "PERKINS PLACE",
+        "RESPONSIBLE_TO_UPDATE": "MS. CHUCKY",
+        "06/03/22": 8,
+        "06/10/22": 8,
+        "06/18/22": 7,
+        "06/24/22": 6
+    },
+    {
+        "LOCATION": "PERKINS PLACE",
+        "RESPONSIBLE_TO_UPDATE": "MS. CHUCKY",
+        "07/01/22": 12,
+        "07/08/22": 9,
+        "07/15/22": 9,
+        "07/22/22": 9
+    },
+    {
+        "LOCATION": "CUYAHOGA IOP",
+        "RESPONSIBLE_TO_UPDATE": "JEFF",
+        "07/01/22": 41,
+        "07/08/22": 47,
+        "07/15/22": 47,
+        "07/22/22": 50
+    },
+    {
+        "LOCATION": "CUYAHOGA AFTERCARE",
+        "RESPONSIBLE_TO_UPDATE": "JEFF",
+        "07/01/22": 32,
+        "07/08/22": 26,
+        "07/15/22": 27,
+        "07/22/22": 27
+    },
+    {
+        "LOCATION": "ADOLESCENT PROGRAM",
+        "RESPONSIBLE_TO_UPDATE": "JEFF",
+        "07/01/22": 2,
+        "07/08/22": 2,
+        "07/15/22": 2,
+        "07/22/22": 3
+    },
+    {
+        "LOCATION": "LORAIN IOP",
+        "RESPONSIBLE_TO_UPDATE": "RON GUISTI",
+        "07/01/22": 16,
+        "07/08/22": 16,
+        "07/15/22": 17,
+        "07/22/22": 17
+    },
+    {
+        "LOCATION": "MENS HOUSE",
+        "RESPONSIBLE_TO_UPDATE": "JEFF",
+        "07/01/22": 0,
+        "07/08/22": 0,
+        "07/15/22": 0,
+        "07/22/22": 0
+    },
+    {
+        "LOCATION": "NEXT STEP",
+        "RESPONSIBLE_TO_UPDATE": "DEBORAH",
+        "07/01/22": 10,
+        "07/08/22": 10,
+        "07/15/22": 10,
+        "07/22/22": 10
+    },
+    {
+        "LOCATION": "NEXT STEP CHILDREN",
+        "RESPONSIBLE_TO_UPDATE": "DEBORAH",
+        "07/01/22": 4,
+        "07/08/22": 3,
+        "07/15/22": 3,
+        "07/22/22": 3
+    },
+    {
+        "LOCATION": "NEXT STEP ODRC CLIENTS",
+        "RESPONSIBLE_TO_UPDATE": "DEBORAH",
+        "07/01/22": 1,
+        "07/08/22": 1,
+        "07/15/22": 1,
+        "07/22/22": 1
+    },
+    {
+        "LOCATION": "NEXT STEP",
+        "RESPONSIBLE_TO_UPDATE": "DEBORAH",
+        "07/01/22": 0,
+        "07/08/22": 1,
+        "07/15/22": 1,
+        "07/22/22": 1
+    },
+    {
+        "LOCATION": "MENS HOUSE",
+        "RESPONSIBLE_TO_UPDATE": "JEFF",
+        "07/01/22": 3,
+        "07/08/22": 3,
+        "07/15/22": 2,
+        "07/22/22": 2
+    },
+    {
+        "LOCATION": "PERKINS PLACE",
+        "RESPONSIBLE_TO_UPDATE": "MS. CHUCKY",
+        "07/01/22": 3,
+        "07/08/22": 6,
+        "07/15/22": 6,
+        "07/22/22": 6
+    },
+    {
+        "LOCATION": "PERKINS PLACE",
+        "RESPONSIBLE_TO_UPDATE": "MS. CHUCKY",
+        "08/05/22": 8,
+        "08/12/22": 9,
+        "08/19/22": 8,
+        "08/26/22": 9
+    },
+    {
+        "LOCATION": "CUYAHOGA IOP",
+        "RESPONSIBLE_TO_UPDATE": "JEFF",
+        "08/05/22": 45,
+        "08/12/22": 42,
+        "08/19/22": 49,
+        "08/26/22": 44
+    },
+    {
+        "LOCATION": "CUYAHOGA AFTERCARE",
+        "RESPONSIBLE_TO_UPDATE": "JEFF",
+        "08/05/22": 26,
+        "08/12/22": 18,
+        "08/19/22": 22,
+        "08/26/22": 28
+    },
+    {
+        "LOCATION": "ADOLESCENT PROGRAM",
+        "RESPONSIBLE_TO_UPDATE": "JEFF",
+        "08/05/22": 3,
+        "08/12/22": 1,
+        "08/19/22": 1,
+        "08/26/22": 1
+    },
+    {
+        "LOCATION": "LORAIN IOP",
+        "RESPONSIBLE_TO_UPDATE": "RON GUISTI",
+        "08/05/22": 17,
+        "08/12/22": 16,
+        "08/19/22": 16,
+        "08/26/22": 16
+    },
+    {
+        "LOCATION": "MENS HOUSE",
+        "RESPONSIBLE_TO_UPDATE": "JEFF",
+        "08/05/22": 0,
+        "08/12/22": 0,
+        "08/19/22": 0,
+        "08/26/22": 0
+    },
+    {
+        "LOCATION": "NEXT STEP",
+        "RESPONSIBLE_TO_UPDATE": "DEBORAH",
+        "08/05/22": 10,
+        "08/12/22": 10,
+        "08/19/22": 10,
+        "08/26/22": 10
+    },
+    {
+        "LOCATION": "NEXT STEP CHILDREN",
+        "RESPONSIBLE_TO_UPDATE": "DEBORAH",
+        "08/05/22": 3,
+        "08/12/22": 3,
+        "08/19/22": 3,
+        "08/26/22": 3
+    },
+    {
+        "LOCATION": "NEXT STEP ODRC CLIENTS",
+        "RESPONSIBLE_TO_UPDATE": "DEBORAH",
+        "08/05/22": 1,
+        "08/12/22": 1,
+        "08/19/22": 2,
+        "08/26/22": 2
+    },
+    {
+        "LOCATION": "NEXT STEP",
+        "RESPONSIBLE_TO_UPDATE": "DEBORAH",
+        "08/05/22": 1,
+        "08/12/22": 1,
+        "08/19/22": 2,
+        "08/26/22": 0
+    },
+    {
+        "LOCATION": "MENS HOUSE",
+        "RESPONSIBLE_TO_UPDATE": "JEFF",
+        "08/05/22": 2,
+        "08/12/22": 1,
+        "08/19/22": 1,
+        "08/26/22": 1
+    },
+    {
+        "LOCATION": "PERKINS PLACE",
+        "RESPONSIBLE_TO_UPDATE": "MS. CHUCKY",
+        "08/05/22": 7,
+        "08/12/22": 6,
+        "08/19/22": 7,
+        "08/26/22": 6
+    },
+    {
+        "LOCATION": "PERKINS PLACE",
+        "RESPONSIBLE_TO_UPDATE": "MS. CHUCKY",
+        "09/02/22": 7,
+        "09/09/22": 7,
+        "09/16/22": 7,
+        "09/23/22": 7,
+        "09/30/22": 6
+    },
+    {
+        "LOCATION": "CUYAHOGA IOP",
+        "RESPONSIBLE_TO_UPDATE": "JEFF",
+        "09/02/22": 48,
+        "09/09/22": 46,
+        "09/16/22": 47,
+        "09/23/22": 46,
+        "09/30/22": 46
+    },
+    {
+        "LOCATION": "CUYAHOGA AFTERCARE",
+        "RESPONSIBLE_TO_UPDATE": "JEFF",
+        "09/02/22": 22,
+        "09/09/22": 22,
+        "09/16/22": 23,
+        "09/23/22": 24,
+        "09/30/22": 29
+    },
+    {
+        "LOCATION": "ADOLESCENT PROGRAM",
+        "RESPONSIBLE_TO_UPDATE": "JEFF",
+        "09/02/22": 1,
+        "09/09/22": 1,
+        "09/16/22": 1,
+        "09/23/22": 3,
+        "09/30/22": 3
+    },
+    {
+        "LOCATION": "LORAIN IOP",
+        "RESPONSIBLE_TO_UPDATE": "RON GUISTI",
+        "09/02/22": 19,
+        "09/09/22": 19,
+        "09/16/22": 19,
+        "09/23/22": 17,
+        "09/30/22": 17
+    },
+    {
+        "LOCATION": "MENS HOUSE",
+        "RESPONSIBLE_TO_UPDATE": "JEFF",
+        "09/02/22": 0,
+        "09/09/22": 0,
+        "09/16/22": 0,
+        "09/23/22": 0,
+        "09/30/22": 0
+    },
+    {
+        "LOCATION": "NEXT STEP",
+        "RESPONSIBLE_TO_UPDATE": "DEBORAH",
+        "09/02/22": 10,
+        "09/09/22": 10,
+        "09/16/22": 9,
+        "09/23/22": 9,
+        "09/30/22": 9
+    },
+    {
+        "LOCATION": "NEXT STEP CHILDREN",
+        "RESPONSIBLE_TO_UPDATE": "DEBORAH",
+        "09/02/22": 4,
+        "09/09/22": 4,
+        "09/16/22": 3,
+        "09/23/22": 3,
+        "09/30/22": 3
+    },
+    {
+        "LOCATION": "NEXT STEP ODRC CLIENTS",
+        "RESPONSIBLE_TO_UPDATE": "DEBORAH",
+        "09/02/22": 2,
+        "09/09/22": 2,
+        "09/16/22": 1,
+        "09/23/22": 1,
+        "09/30/22": 1
+    },
+    {
+        "LOCATION": "NEXT STEP",
+        "RESPONSIBLE_TO_UPDATE": "DEBORAH",
+        "09/02/22": 0,
+        "09/09/22": 1,
+        "09/16/22": 3,
+        "09/23/22": 3,
+        "09/30/22": 2
+    },
+    {
+        "LOCATION": "MENS HOUSE",
+        "RESPONSIBLE_TO_UPDATE": "JEFF",
+        "09/02/22": 1,
+        "09/09/22": 0,
+        "09/16/22": 0,
+        "09/23/22": 1,
+        "09/30/22": 1
+    },
+    {
+        "LOCATION": "PERKINS PLACE",
+        "RESPONSIBLE_TO_UPDATE": "MS. CHUCKY",
+        "09/02/22": 6,
+        "09/09/22": 8,
+        "09/16/22": 8,
+        "09/23/22": 8,
+        "09/30/22": 9
+    },
+    {
+        "LOCATION": "PERKINS PLACE",
+        "RESPONSIBLE_TO_UPDATE": "MS. CHUCKY",
+        "10/07/22": 6,
+        "10/14/22": 5,
+        "10/21/22": 6,
+        "10/28/22": 10
+    },
+    {
+        "LOCATION": "CUYAHOGA IOP",
+        "RESPONSIBLE_TO_UPDATE": "JEFF",
+        "10/07/22": 50,
+        "10/14/22": 49,
+        "10/21/22": 49,
+        "10/28/22": 47
+    },
+    {
+        "LOCATION": "CUYAHOGA AFTERCARE",
+        "RESPONSIBLE_TO_UPDATE": "JEFF",
+        "10/07/22": 29,
+        "10/14/22": 28,
+        "10/21/22": 29,
+        "10/28/22": 27
+    },
+    {
+        "LOCATION": "ADOLESCENT PROGRAM",
+        "RESPONSIBLE_TO_UPDATE": "JEFF",
+        "10/07/22": 4,
+        "10/14/22": 4,
+        "10/21/22": 4,
+        "10/28/22": 4
+    },
+    {
+        "LOCATION": "LORAIN IOP",
+        "RESPONSIBLE_TO_UPDATE": "RON GUISTI",
+        "10/07/22": 15,
+        "10/14/22": 15,
+        "10/21/22": 15,
+        "10/28/22": 15
+    },
+    {
+        "LOCATION": "MENS HOUSE",
+        "RESPONSIBLE_TO_UPDATE": "JEFF",
+        "10/07/22": 0,
+        "10/14/22": 0,
+        "10/21/22": 0,
+        "10/28/22": 0
+    },
+    {
+        "LOCATION": "NEXT STEP",
+        "RESPONSIBLE_TO_UPDATE": "DEBORAH",
+        "10/07/22": 9,
+        "10/14/22": 10,
+        "10/21/22": 10,
+        "10/28/22": 10
+    },
+    {
+        "LOCATION": "NEXT STEP CHILDREN",
+        "RESPONSIBLE_TO_UPDATE": "DEBORAH",
+        "10/07/22": 3,
+        "10/14/22": 3,
+        "10/21/22": 3,
+        "10/28/22": 3
+    },
+    {
+        "LOCATION": "NEXT STEP ODRC CLIENTS",
+        "RESPONSIBLE_TO_UPDATE": "DEBORAH",
+        "10/07/22": 1,
+        "10/14/22": 1,
+        "10/21/22": 1,
+        "10/28/22": 2
+    },
+    {
+        "LOCATION": "NEXT STEP",
+        "RESPONSIBLE_TO_UPDATE": "DEBORAH",
+        "10/07/22": 2,
+        "10/14/22": 1,
+        "10/21/22": 0,
+        "10/28/22": 0
+    },
+    {
+        "LOCATION": "MENS HOUSE",
+        "RESPONSIBLE_TO_UPDATE": "JEFF",
+        "10/07/22": 0,
+        "10/14/22": 0,
+        "10/21/22": 0,
+        "10/28/22": 0
+    },
+    {
+        "LOCATION": "PERKINS PLACE",
+        "RESPONSIBLE_TO_UPDATE": "MS. CHUCKY",
+        "10/07/22": 9,
+        "10/14/22": 10,
+        "10/21/22": 9,
+        "10/28/22": 5
+    },
+    {
+        "LOCATION": "PERKINS PLACE",
+        "RESPONSIBLE_TO_UPDATE": "MS. CHUCKY",
+        "11/04/22": 9,
+        "11/11/22": 8,
+        "11/18/22": 8,
+        "11/25/22": 8
+    },
+    {
+        "LOCATION": "CUYAHOGA IOP",
+        "RESPONSIBLE_TO_UPDATE": "JEFF",
+        "11/04/22": 34,
+        "11/11/22": 36,
+        "11/18/22": 28,
+        "11/25/22": 28
+    },
+    {
+        "LOCATION": "CUYAHOGA AFTERCARE",
+        "RESPONSIBLE_TO_UPDATE": "JEFF",
+        "11/04/22": 38,
+        "11/11/22": 39,
+        "11/18/22": 38,
+        "11/25/22": 31
+    },
+    {
+        "LOCATION": "ADOLESCENT PROGRAM",
+        "RESPONSIBLE_TO_UPDATE": "JEFF",
+        "11/04/22": 6,
+        "11/11/22": 5,
+        "11/18/22": 4,
+        "11/25/22": 4
+    },
+    {
+        "LOCATION": "LORAIN IOP",
+        "RESPONSIBLE_TO_UPDATE": "RON GUISTI",
+        "11/04/22": 18,
+        "11/11/22": 18,
+        "11/18/22": 17,
+        "11/25/22": 18
+    },
+    {
+        "LOCATION": "MENS HOUSE",
+        "RESPONSIBLE_TO_UPDATE": "JEFF",
+        "11/04/22": 0,
+        "11/11/22": 0,
+        "11/18/22": 0,
+        "11/25/22": 0
+    },
+    {
+        "LOCATION": "NEXT STEP",
+        "RESPONSIBLE_TO_UPDATE": "DEBORAH",
+        "11/04/22": 8,
+        "11/11/22": 8,
+        "11/18/22": 8,
+        "11/25/22": 8
+    },
+    {
+        "LOCATION": "NEXT STEP CHILDREN",
+        "RESPONSIBLE_TO_UPDATE": "DEBORAH",
+        "11/04/22": 3,
+        "11/11/22": 3,
+        "11/18/22": 3,
+        "11/25/22": 1
+    },
+    {
+        "LOCATION": "NEXT STEP ODRC CLIENTS",
+        "RESPONSIBLE_TO_UPDATE": "DEBORAH",
+        "11/04/22": 2,
+        "11/11/22": 2,
+        "11/18/22": 2,
+        "11/25/22": 1
+    },
+    {
+        "LOCATION": "NEXT STEP",
+        "RESPONSIBLE_TO_UPDATE": "DEBORAH",
+        "11/04/22": 2,
+        "11/11/22": 2,
+        "11/18/22": 2,
+        "11/25/22": 5
+    },
+    {
+        "LOCATION": "MENS HOUSE",
+        "RESPONSIBLE_TO_UPDATE": "JEFF",
+        "11/04/22": 0,
+        "11/11/22": 0,
+        "11/18/22": 1,
+        "11/25/22": 1
+    },
+    {
+        "LOCATION": "PERKINS PLACE",
+        "RESPONSIBLE_TO_UPDATE": "MS. CHUCKY",
+        "11/04/22": 6,
+        "11/11/22": 7,
+        "11/18/22": 7,
+        "11/25/22": 7
+    },
+    {
+        "LOCATION": "PERKINS PLACE",
+        "RESPONSIBLE_TO_UPDATE": "MS. CHUCKY",
+        "12/02/22": 9,
+        "12/09/22": 10,
+        "12/13/22": 8,
+        "12/22/22": 10
+    },
+    {
+        "LOCATION": "CUYAHOGA IOP",
+        "RESPONSIBLE_TO_UPDATE": "JEFF",
+        "12/02/22": 24,
+        "12/09/22": 28,
+        "12/13/22": 23,
+        "12/22/22": 28,
+        "12/30/22": 22
+    },
+    {
+        "LOCATION": "CUYAHOGA AFTERCARE",
+        "RESPONSIBLE_TO_UPDATE": "JEFF",
+        "12/02/22": 30,
+        "12/09/22": 40,
+        "12/13/22": 24,
+        "12/22/22": 24,
+        "12/30/22": 26
+    },
+    {
+        "LOCATION": "ADOLESCENT PROGRAM",
+        "RESPONSIBLE_TO_UPDATE": "JEFF",
+        "12/02/22": 4,
+        "12/09/22": 4,
+        "12/13/22": 4,
+        "12/22/22": 3,
+        "12/30/22": 3
+    },
+    {
+        "LOCATION": "LORAIN IOP",
+        "RESPONSIBLE_TO_UPDATE": "RON GUISTI",
+        "12/02/22": 18,
+        "12/09/22": 20
+    },
+    {
+        "LOCATION": "MENS HOUSE",
+        "RESPONSIBLE_TO_UPDATE": "JEFF",
+        "12/02/22": 0,
+        "12/09/22": 0,
+        "12/13/22": 0,
+        "12/22/22": 0,
+        "12/30/22": 0
+    },
+    {
+        "LOCATION": "NEXT STEP",
+        "RESPONSIBLE_TO_UPDATE": "DEBORAH",
+        "12/02/22": 11,
+        "12/09/22": 11,
+        "12/13/22": 10,
+        "12/22/22": 11,
+        "12/30/22": 11
+    },
+    {
+        "LOCATION": "NEXT STEP CHILDREN",
+        "RESPONSIBLE_TO_UPDATE": "DEBORAH",
+        "12/02/22": 3,
+        "12/09/22": 3,
+        "12/13/22": 3,
+        "12/22/22": 3,
+        "12/30/22": 3
+    },
+    {
+        "LOCATION": "NEXT STEP ODRC CLIENTS",
+        "RESPONSIBLE_TO_UPDATE": "DEBORAH",
+        "12/02/22": 1,
+        "12/09/22": 1,
+        "12/13/22": 1,
+        "12/22/22": 1,
+        "12/30/22": 1
+    },
+    {
+        "LOCATION": "NEXT STEP",
+        "RESPONSIBLE_TO_UPDATE": "DEBORAH",
+        "12/02/22": 0,
+        "12/09/22": 1,
+        "12/13/22": 2,
+        "12/22/22": 1,
+        "12/30/22": 1
+    },
+    {
+        "LOCATION": "MENS HOUSE",
+        "RESPONSIBLE_TO_UPDATE": "JEFF",
+        "12/02/22": 1,
+        "12/09/22": 0,
+        "12/13/22": 0,
+        "12/22/22": 0
+    },
+    {
+        "LOCATION": "PERKINS PLACE",
+        "RESPONSIBLE_TO_UPDATE": "MS. CHUCKY",
+        "12/02/22": 6,
+        "12/09/22": 5,
+        "12/13/22": 8,
+        "12/22/22": 9
+    },
+    {
+        "LOCATION": "PERKINS PLACE",
+        "RESPONSIBLE_TO_UPDATE": "MS. CHUCKY",
+        "01/06/23": 11,
+        "01/13/23": 9,
+        "01/23/23": 10
+    },
+    {
+        "LOCATION": "CUYAHOGA IOP",
+        "RESPONSIBLE_TO_UPDATE": "JEFF",
+        "01/06/23": 25,
+        "01/13/23": 29,
+        "01/23/23": 31
+    },
+    {
+        "LOCATION": "CUYAHOGA AFTERCARE",
+        "RESPONSIBLE_TO_UPDATE": "JEFF",
+        "01/06/23": 28,
+        "01/13/23": 30,
+        "01/23/23": 29
+    },
+    {
+        "LOCATION": "ADOLESCENT PROGRAM",
+        "RESPONSIBLE_TO_UPDATE": "JEFF",
+        "01/06/23": 3,
+        "01/13/23": 3,
+        "01/23/23": 2
+    },
+    {
+        "LOCATION": "LORAIN IOP",
+        "RESPONSIBLE_TO_UPDATE": "RON GUISTI",
+        "01/06/23": 16,
+        "01/13/23": 16,
+        "01/23/23": 18
+    },
+    {
+        "LOCATION": "MENS HOUSE",
+        "RESPONSIBLE_TO_UPDATE": "JEFF",
+        "01/06/23": 0,
+        "01/13/23": 0,
+        "01/23/23": 0
+    },
+    {
+        "LOCATION": "NEXT STEP",
+        "RESPONSIBLE_TO_UPDATE": "DEBORAH",
+        "01/06/23": 11,
+        "01/13/23": 11,
+        "01/23/23": 11
+    },
+    {
+        "LOCATION": "NEXT STEP CHILDREN",
+        "RESPONSIBLE_TO_UPDATE": "DEBORAH",
+        "01/06/23": 3,
+        "01/13/23": 3,
+        "01/23/23": 3
+    },
+    {
+        "LOCATION": "NEXT STEP ODRC CLIENTS",
+        "RESPONSIBLE_TO_UPDATE": "DEBORAH",
+        "01/06/23": 1,
+        "01/13/23": 0,
+        "01/23/23": 0
+    },
+    {
+        "LOCATION": "NEXT STEP",
+        "RESPONSIBLE_TO_UPDATE": "DEBORAH",
+        "01/06/23": 0,
+        "01/13/23": 0,
+        "01/23/23": 1
+    },
+    {
+        "LOCATION": "MENS HOUSE",
+        "RESPONSIBLE_TO_UPDATE": "JEFF",
+        "01/06/23": 1,
+        "01/13/23": 1,
+        "01/23/23": 1
+    },
+    {
+        "LOCATION": "PERKINS PLACE",
+        "RESPONSIBLE_TO_UPDATE": "MS. CHUCKY",
+        "01/06/23": 4,
+        "01/13/23": 6,
+        "01/23/23": 5
+    }
+]
