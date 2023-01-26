@@ -1,4 +1,5 @@
-import json_records from "./db/formatted_records.json";
+"use strict"
+import json_records from "./db/formatted_records.js";
 const retrieveRecords = (start, end, locations) =>
   new Promise((resolve, reject) => {
     const response_records = [];
