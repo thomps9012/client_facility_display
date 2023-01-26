@@ -4,7 +4,8 @@
   --secondary-main-color: #aea1d2;
   --secondary-font-color: #a5d2a1;
   --secondary-error-color: #c28080;
-  --ghost-font-color: #faf9f6;
+  /* --ghost-font-color: rgb(241 245 249); */
+  --ghost-font-color: rgb(248 250 252);
 }
 *,
 .container {
@@ -37,7 +38,11 @@
   font-style: italic;
   font-size: 60px;
 }
-
+.text-decoration-line-through:hover,
+.form-check-label:hover,
+.ui-slider:hover {
+  cursor: pointer;
+}
 .form-check-label {
   color: var(--secondary-font-color);
   font-weight: bold;

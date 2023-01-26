@@ -1,4 +1,18 @@
-fetch("/api/dates")
+import json_records from "./db/formatted_records.json";
+const getAllDates = () =>
+  new Promise((resolve, reject) => {
+    const unique_dates = [];
+    json_records.map((month) => {
+      const keys = Object.keys(month);
+      let dates = keys.slice(2);
+      unique_dates.push(...dates);
+    });
+    const res_dates = unique_dates.filter((value, index, self) => {
+      return self.indexOf(value) === index;
+    });
+    resolve(res_dates);
+  });
+getAllDates()
   .then((res) => res.json())
   .then((dates) => {
     const sorted = dates.map((date) => new Date(date)).sort((a, b) => a - b);
@@ -60,7 +74,16 @@ const renderCheckBox = (location) => {
 `);
   $("#location-select").append(div);
 };
-fetch("/api/locations")
+
+const getAllLocations = () =>
+  new Promise((resolve, reject) => {
+    const all_locations = json_records.map(({ LOCATION }) => LOCATION);
+    const unique_locations = all_locations.filter((value, index, self) => {
+      return self.indexOf(value) === index;
+    });
+    resolve(unique_locations);
+  });
+getAllLocations()
   .then((res) => res.json())
   .then((locations) => {
     locations.forEach((location) => renderCheckBox(location));

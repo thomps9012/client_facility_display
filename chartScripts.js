@@ -1,3 +1,97 @@
+import json_records from "./db/formatted_records.json";
+const retrieveRecords = (start, end, locations) =>
+  new Promise((resolve, reject) => {
+    const response_records = [];
+    const date_arr = [];
+    locations.forEach((location) => {
+      const first_filter = json_records.filter(
+        ({ LOCATION }) => LOCATION === location
+      );
+      first_filter.map((record) => {
+        const dates = Object.keys(record).slice(2);
+        dates.forEach((date) => {
+          if (
+            new Date(start) <= new Date(date) &&
+            new Date(date) <= new Date(end)
+          ) {
+            date_arr.push(
+              new Date(date).getFullYear() +
+                "-" +
+                (new Date(date).getMonth() + 1)
+            );
+            response_records.push({
+              location: record.LOCATION,
+              date:
+                new Date(date).getFullYear() +
+                "-" +
+                (new Date(date).getMonth() + 1),
+              client_count: record[date],
+            });
+          }
+        });
+      });
+    });
+    const date_labels = date_arr.filter((value, index, self) => {
+      return self.indexOf(value) === index;
+    });
+    const reduced_records = [];
+    response_records.map(({ date, client_count, location }) => {
+      const index = reduced_records.findIndex(
+        (i) => i.x == date && i.z == location
+      );
+      if (index >= 0) {
+        reduced_records[index].y += client_count;
+        reduced_records[index].record_count++;
+      } else {
+        reduced_records.push({
+          x: date,
+          y: client_count,
+          z: location,
+          record_count: 1,
+        });
+      }
+    });
+    const avg_bar = [];
+    reduced_records.map(({ x, y, z, record_count }) => {
+      const index = avg_bar.findIndex((i) => i.location == z);
+      if (index >= 0) {
+        avg_bar[index].data.push({ x, y: Math.floor(y / record_count) });
+      } else {
+        avg_bar.push({
+          location: z,
+          data: [
+            {
+              x,
+              y: Math.floor(y / record_count),
+            },
+          ],
+        });
+      }
+    });
+    const total_line = [];
+    avg_bar.forEach(({ data }) => {
+      data.map(({ x, y }) => {
+        const index = total_line.findIndex((i) => i.x == x);
+        if (index >= 0) {
+          total_line[index].y += y;
+        } else {
+          total_line.push({ x, y });
+        }
+      });
+    });
+    const total_pie = [];
+    avg_bar.forEach(({ data, location }) => {
+      const total = data.reduce((acc, obj) => (acc += obj.y), 0);
+      total_pie.push({ location: location, total: total });
+    });
+    resolve({
+      date_labels: date_labels,
+      bar_records: avg_bar,
+      line_records: total_line,
+      pie_records: total_pie,
+    });
+  });
+
 const getLocations = () => {
   const location_boxes = $(".form-check-input").toArray();
   const selected_locations = location_boxes
@@ -16,14 +110,17 @@ const getDates = () => {
 };
 const fetchResults = async (start_date, end_date) => {
   const locations = getLocations();
-  const records = await fetch("/api/records", {
-    method: "GET",
-    headers: {
-      start: start_date,
-      end: end_date,
-      locations: JSON.stringify(locations),
-    },
-  }).then((res) => res.json());
+  const records = await retrieveRecords(start_date, end_date, locations).then(
+    (res) => res.json()
+  );
+  // fetch("/api/records", {
+  //   method: "GET",
+  //   headers: {
+  //     start: start_date,
+  //     end: end_date,
+  //     locations: JSON.stringify(locations),
+  //   },
+  // }).then((res) => res.json());
   return records;
 };
 
@@ -95,7 +192,20 @@ const dateString = (date) => {
       return `Dec ${year}`;
   }
 };
-const generateColor = () => Math.floor(Math.random() * 16777215).toString(16);
+const generateColor = () => {
+  const color_array = [
+    "rgb(248 113 113)",
+    "rgb(249 115 22)",
+    "rgb(252 211 77)",
+    "rgb(163 230 53)",
+    "rgb(74 222 128)",
+    "rgb(52 211 153)",
+    "rgb(22 78 99)",
+    "rgb(190 24 93)",
+  ];
+  const index = Math.floor(Math.random() * color_array.length);
+  return color_array[index];
+};
 
 const generateBarChart = (bar_data, line_data, date_labels) => {
   new Chart($("#bar-line-canvas"), {
@@ -104,7 +214,7 @@ const generateBarChart = (bar_data, line_data, date_labels) => {
       labels: date_labels.sort(dateCompare).map((label) => dateString(label)),
       datasets: [
         {
-          label: "Clients Between All Facilities",
+          label: "ALL FACILITIES",
           data: line_data
             .sort(secondaryCompare)
             .map(({ x, y }) => ({ x: dateString(x), y: y })),
@@ -120,8 +230,8 @@ const generateBarChart = (bar_data, line_data, date_labels) => {
           return {
             label: location,
             barThickness: 25,
-            borderColor: `#${random_color}`,
-            backgroundColor: `#${random_color}`,
+            borderColor: random_color,
+            backgroundColor: random_color,
             data: data
               .sort(secondaryCompare)
               .map(({ x, y }) => ({ x: dateString(x), y: y })),
@@ -146,10 +256,20 @@ const generateBarChart = (bar_data, line_data, date_labels) => {
           loop: true,
         },
       },
+      layout: {
+        padding: {
+          left: 50,
+        },
+      },
       plugins: {
         legend: {
           position: "left",
           onClick: () => {},
+          labels: {
+            font: {
+              size: 20,
+            },
+          },
         },
       },
       scales: {
@@ -188,10 +308,20 @@ const generatePieChart = (pie_data) => {
           loop: true,
         },
       },
+      layout: {
+        padding: {
+          right: 50,
+        },
+      },
       plugins: {
         legend: {
           position: "right",
           onClick: () => {},
+          labels: {
+            font: {
+              size: 20,
+            },
+          },
         },
         title: {
           text: "Clients By Facility",
