@@ -1,4 +1,4 @@
-export default json_records = [
+export const json_records = [
   {
     LOCATION: "OPHELIA HOUSE",
     RESPONSIBLE_TO_UPDATE: "SHEILA",
