@@ -1,5 +1,5 @@
 import json_records from "./formatted_records.js";
-export const getAllDates = () =>
+const getAllDates = () =>
   new Promise((resolve, reject) => {
     const unique_dates = [];
     json_records.map((month) => {
@@ -13,7 +13,7 @@ export const getAllDates = () =>
     resolve(res_dates);
   });
 
-export const getAllLocations = () =>
+const getAllLocations = () =>
   new Promise((resolve, reject) => {
     const all_locations = json_records.map(({ LOCATION }) => LOCATION);
     const unique_locations = all_locations.filter((value, index, self) => {
@@ -22,7 +22,7 @@ export const getAllLocations = () =>
     resolve(unique_locations);
   });
 
-export const retrieveRecords = (start, end, locations) =>
+const retrieveRecords = (start, end, locations) =>
   new Promise((resolve, reject) => {
     const response_records = [];
     const date_arr = [];
@@ -114,3 +114,5 @@ export const retrieveRecords = (start, end, locations) =>
       pie_records: total_pie,
     });
   });
+
+export { retrieveRecords, getAllLocations, getAllDates };

@@ -1,6 +1,6 @@
 {
-  "name": "client_bed_utilization",
   "type": "module",
+  "name": "client_bed_utilization",
   "version": "1.0.0",
   "main": "index.js",
   "keywords": [],
