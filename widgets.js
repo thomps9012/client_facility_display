@@ -1,43 +1,27 @@
-"use strict"
-import json_records from "./db/formatted_records.js";
-const getAllDates = () =>
-  new Promise((resolve, reject) => {
-    const unique_dates = [];
-    json_records.map((month) => {
-      const keys = Object.keys(month);
-      let dates = keys.slice(2);
-      unique_dates.push(...dates);
-    });
-    const res_dates = unique_dates.filter((value, index, self) => {
-      return self.indexOf(value) === index;
-    });
-    resolve(res_dates);
+"use strict";
+
+export const renderSlider = (sorted_dates) => {
+  const start = sorted_dates[0];
+  const end = sorted_dates[sorted_dates.length - 1];
+  $("#date-slider").slider({
+    range: true,
+    min: start.getTime() / 1000,
+    max: end.getTime() / 1000,
+    step: 86400,
+    values: [start.getTime() / 1000, end.getTime() / 1000],
+    slide: function (e, ui) {
+      const [start_date, end_date] = ui.values;
+      $("#display-start").val(new Date(start_date * 1000).toDateString());
+      $("#display-end").val(new Date(end_date * 1000).toDateString());
+    },
   });
-getAllDates()
-  .then((res) => res.json())
-  .then((dates) => {
-    const sorted = dates.map((date) => new Date(date)).sort((a, b) => a - b);
-    const start = sorted[0];
-    const end = sorted[sorted.length - 1];
-    $("#date-slider").slider({
-      range: true,
-      min: start.getTime() / 1000,
-      max: end.getTime() / 1000,
-      step: 86400,
-      values: [start.getTime() / 1000, end.getTime() / 1000],
-      slide: function (e, ui) {
-        const [start_date, end_date] = ui.values;
-        $("#display-start").val(new Date(start_date * 1000).toDateString());
-        $("#display-end").val(new Date(end_date * 1000).toDateString());
-      },
-    });
-    $("#display-start").val(
-      new Date($("#date-slider").slider("values", 0) * 1000).toDateString()
-    );
-    $("#display-end").val(
-      new Date($("#date-slider").slider("values", 1) * 1000).toDateString()
-    );
-  });
+  $("#display-start").val(
+    new Date($("#date-slider").slider("values", 0) * 1000).toDateString()
+  );
+  $("#display-end").val(
+    new Date($("#date-slider").slider("values", 1) * 1000).toDateString()
+  );
+};
 
 const titleCase = (location) => {
   const array = location.split(" ");
@@ -55,7 +39,7 @@ const titleCase = (location) => {
   return titled;
 };
 
-const renderCheckBox = (location) => {
+export const renderCheckBox = (location) => {
   const id = location.split(" ").join("-");
   const div = $("<div>");
   div.attr("class", "location-select p-2 col-4 d-flex justify-content-start");
@@ -75,17 +59,3 @@ const renderCheckBox = (location) => {
 `);
   $("#location-select").append(div);
 };
-
-const getAllLocations = () =>
-  new Promise((resolve, reject) => {
-    const all_locations = json_records.map(({ LOCATION }) => LOCATION);
-    const unique_locations = all_locations.filter((value, index, self) => {
-      return self.indexOf(value) === index;
-    });
-    resolve(unique_locations);
-  });
-getAllLocations()
-  .then((res) => res.json())
-  .then((locations) => {
-    locations.forEach((location) => renderCheckBox(location));
-  });

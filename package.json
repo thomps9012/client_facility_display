@@ -1,10 +1,10 @@
 {
   "name": "client_bed_utilization",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
   "type": "module",
+  "version": "1.0.0",
+  "main": "index.js",
   "keywords": [],
   "author": "Samuel Thompson",
-  "license": "ISC"
+  "license": "ISC",
+  "description": ""
 }

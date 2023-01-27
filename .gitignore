@@ -1,4 +1,4 @@
 /node_modules
 /public
 Dockerfile
-index.js
+server.js
