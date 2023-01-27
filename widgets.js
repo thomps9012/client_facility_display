@@ -1,6 +1,6 @@
-"use strict";
+// "use strict";
 
-export const renderSlider = (sorted_dates) => {
+const renderSlider = (sorted_dates) => {
   const start = sorted_dates[0];
   const end = sorted_dates[sorted_dates.length - 1];
   $("#date-slider").slider({
@@ -39,7 +39,7 @@ const titleCase = (location) => {
   return titled;
 };
 
-export const renderCheckBox = (location) => {
+const renderCheckBox = (location) => {
   const id = location.split(" ").join("-");
   const div = $("<div>");
   div.attr("class", "location-select p-2 col-4 d-flex justify-content-start");

@@ -1,4 +1,3 @@
-import json_records from "./formatted_records.js";
 const getAllDates = () =>
   new Promise((resolve, reject) => {
     const unique_dates = [];
@@ -114,5 +113,3 @@ const retrieveRecords = (start, end, locations) =>
       pie_records: total_pie,
     });
   });
-
-export { retrieveRecords, getAllLocations, getAllDates };

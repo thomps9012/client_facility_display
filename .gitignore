@@ -3,5 +3,3 @@
 Dockerfile
 server.js
 /db
-package.json
-yarn.lock
